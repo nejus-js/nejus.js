@@ -64,7 +64,7 @@ MIT
 ## Support
 
 - [Serveur Discord](https://discord.gg/nexusjs)
-- [GitHub](https://github.com/nejus-js/nejus.js/)
+- [GitHub Issues](https://github.com/yourusername/nexus.js/issues)
 
 ## Crédits
 
